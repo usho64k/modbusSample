@@ -1,2 +1,3 @@
 # modbusSample
 modbus protocol connection
+tcpServを動かすためにはlibeventが必要だったはず
